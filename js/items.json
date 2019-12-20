@@ -1,0 +1,30 @@
+{
+    "items" : [
+
+        {
+            "name": "carrot",
+            "price": "5"
+        },
+
+        {
+            "name": "broccoli",
+            "price": "6"
+        },
+
+        {
+            "name": "corn",
+            "price": "3"
+        },
+
+        {
+            "name": "onion",
+            "price": "8"
+        },
+
+        {
+            "name": "potato",
+            "price": "7"
+        }
+    ]
+
+}
