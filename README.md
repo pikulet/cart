@@ -1,9 +1,9 @@
-# cart
-simple front end shopping cart to practise jquery
+# :shopping: cart :shopping:
 
-- Cart items are dynamically loaded
+A simple front end shopping cart to practise jQuery.
+- Cart items are dynamically loaded into the HTML page
 - Data is saved in JSON using localStorage/ sessionStorage
 
-## improvements
+## :seedling: Improvements
 
-- Add/ remove items is not styled correctly :^)
+There are some styling bugs in adding and removing items :^)
